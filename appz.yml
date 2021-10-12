@@ -1,6 +1,6 @@
 app:
-    name: Hello Node
-    code: hellonode
+    name: angular-nodejs
+    code: angularnodejs
     notify: appzdev@cloudbourne.co
 
 build:
